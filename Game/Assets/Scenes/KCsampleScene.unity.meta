@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<<< HEAD:Game/Assets/Scenes/KCsampleScene.unity.meta
+guid: db5bc69150285384e83043e45a5f8a31
+========
+guid: 1b9f5a34e995d2c4f93bbf7a63f597d6
+>>>>>>>> MariuszBranch:Game/Assets/Scenes/SampleScene.unity.meta
+=======
+guid: be571f668d75b1f45931ede74264e5c1
+>>>>>>> MariuszBranch
+=======
+guid: be571f668d75b1f45931ede74264e5c1
+>>>>>>> MariuszBranch
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

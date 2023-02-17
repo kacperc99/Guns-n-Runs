@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8775c40e1c1ec61448f0ac85b8cb34ef, type: 3}
+  m_Name: MachineGun
+  m_EditorClassIdentifier: 
+  type: 0
+  desciption: 
+  ObjectImage: {fileID: 21300000, guid: 0cb4edf248a702f4c89ad473272f89b2, type: 3}
+  muzzle: {fileID: 11400000, guid: 8d50347b439ad714d9607ffc798fe4ee, type: 2}
+  stock: {fileID: 11400000, guid: 0b83baa05c24e1d408aa75b2fbc3159d, type: 2}
+  ammo: {fileID: 11400000, guid: d637430009ddbec45bdab4b136390a92, type: 2}
+  magazine: {fileID: 11400000, guid: a75373fe2020d7b4cac2ed2e2f13484e, type: 2}
